@@ -44,6 +44,7 @@
 ;;; Code:
 
 (require 'url)
+(require 'delsel)
 
 ;; Customization
 
